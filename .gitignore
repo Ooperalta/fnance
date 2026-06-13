@@ -5,6 +5,7 @@
 
 
 .env
+Documentation/
 # User-specific files
 *.rsuser
 *.suo
